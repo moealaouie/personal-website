@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7743404c.css",
+    "main.js": "/static/js/main.d3a5ccfb.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.png": "/static/media/home-main.890d83001fdd10972792.png",
+    "static/media/about.png": "/static/media/about.8d26d8452ee644f195de.png",
+    "static/media/food-fight-logo-rounded.png": "/static/media/food-fight-logo-rounded.936546b08d99235385f2.png",
+    "static/media/project-hush-logo-v2.png": "/static/media/project-hush-logo-v2.776eabe5d7ede1a3bbdd.png",
+    "static/media/speedle-logo.png": "/static/media/speedle-logo.afc53843470fff765782.png",
+    "static/media/Mohamed Alaouie Resume.pdf": "/static/media/Mohamed Alaouie Resume.4e028cdcd993aa3c301e.pdf",
+    "static/media/logo.png": "/static/media/logo.9e2dcaa8845e5b5c91d8.png",
+    "static/media/grid.svg": "/static/media/grid.56527739ad5edd2624a2.svg",
+    "index.html": "/index.html",
+    "main.7743404c.css.map": "/static/css/main.7743404c.css.map",
+    "main.d3a5ccfb.js.map": "/static/js/main.d3a5ccfb.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7743404c.css",
+    "static/js/main.d3a5ccfb.js"
+  ]
+}
