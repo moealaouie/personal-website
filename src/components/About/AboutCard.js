@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { GiModernCity } from "react-icons/gi";
 
 function AboutCard() {
   return (
