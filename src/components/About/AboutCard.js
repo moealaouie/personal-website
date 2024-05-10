@@ -7,18 +7,18 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "justify", fontSize: "24px" }}>
             Thank you for spending the time to check out my site! <br></br> I'm{" "}
-            <span className="purple">Mohamed Alaouie </span> - a developer
-            from <span className="purple"> Metro Detroit. 🧑🏻‍💻🌆</span>
+            <span className="purple">Mohamed Alaouie </span> - a Test Automation Engineer 
+            from <span className="purple"> Metro Detroit.</span>
             <br />
             <br></br>
-            I love soccer, fitness, and video games. I like to combine some of my interests with my technical
-            skills to create fun, unique apps that anyone can enjoy!
+            I love traveling the world, lifting weights, playing soccer, video games, but I especially enjoy coding!
+             I like to combine my interests with my technical skills to try and make a positive impact on society.
             <br />
             <br></br>
-            I am especially passionate about crafting solutions that make life
-            easier. Head over to my Projects page to see what I have been
+            I am intellectually curious about everything in tech, so I am always thriving to learn more and do more.
+            Head over to my Projects page to see what I have been
             working on!
             <br />
             <br />

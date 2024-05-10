@@ -36,10 +36,10 @@ function Home2() {
               <i>
                 <b className="purple">Ally Financial </b>{" "}
               </i> 
-                where I contribute to the design, development, and testing of
-                automation solutions for various business processes. I leverage
+                where I contributed to the design, development, and testing of
+                automation solutions for various business processes. I leveraged
                 my skills in <i><b className="purple">Java and Selenium</b>{" "}</i>
-                to create and maintain automation CI/CD workflows that help improve
+                to create and maintain automation CI/CD workflows that helped improve
                 efficiency and accuracy in the workplace.
               
               <br />
