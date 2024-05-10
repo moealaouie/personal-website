@@ -16,31 +16,32 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              WELCOME! LET ME <span className="purple"> SHOW YOU AROUND. </span>
+             <span className="purple">  WELCOME!  </span>
             </h1>
             <p className="home-about-body">
-              As a recent graduate from Eastern Michigan University with
-              a BS in Computer Science, I have a strong foundation in full-stack
-              development and IT support. I have experience working with various
-              employers:{" "}
-              <b className="purple">Ally Financial, Career Now Brands, and Secure-24</b>.
-              <br />
-              <br />I am passionate about creating intuitive and secure apps
-              solving real, everyday problems, using languages such as
+            I am a dedicated Software Test Automation Engineer based in Detroit, MI, with a Bachelor of Science in Computer Science from Eastern Michigan University. Throughout my career,
+             I have specialized in enhancing software quality and efficiency through innovative automated testing solutions and software development.
+             I am passionate about solving real, everyday problems, using languages such as
               <i>
-                <b className="purple"> JavaScript, Python, and C#. </b>
+                <b className="purple"> Java, Python, and Javascript. </b>
+              </i>
+              I have experience working with various
+              employers:{" "}
+              <i>
+              <b className="purple">Ally Financial, Career Now Brands, and Secure-24</b>.
               </i>
               <br />
               <br />
               My most recent role was as a Software Test Automation Engineer at&nbsp;
               <i>
                 <b className="purple">Ally Financial </b>{" "}
+              </i> 
                 where I contribute to the design, development, and testing of
                 automation solutions for various business processes. I leverage
-                my skills in <b className="purple">Java and Selenium</b>{" "}
+                my skills in <i><b className="purple">Java and Selenium</b>{" "}</i>
                 to create and maintain automation CI/CD workflows that help improve
                 efficiency and accuracy in the workplace.
-              </i>
+              
               <br />
               <br />I am constantly trying to find new ways to make technology
               serve us and make our lives easier. Currently, I am improving my skills with{" "}
